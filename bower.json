@@ -10,7 +10,7 @@
   "dependencies": {
     "Leaflet.label": "~0.2.1",
     "chroma-js": "~0.6.1",
-    "leaflet": "~0.7.3",
+    "leaflet": "https://github.com/davojta/Leaflet.git#v0.7.3",
     "ionicons": "~2.0.1",
     "moment": "~2.9.0",
     "requirejs": "~2.1.16",
